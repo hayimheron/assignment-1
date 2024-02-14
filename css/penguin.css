@@ -1,6 +1,6 @@
 body {
     font-family: Papyrus, sans-serif;
-    background-color: rgb(52, 66, 220);
+    background-color: rgb(249, 103, 98);
     font-size: 150%;
     text-align: center;
   }
@@ -9,7 +9,7 @@ body {
     width: 700px;
     height: 500px;
     object-fit: contain;
-    float : left;
+    float : center;
   }
   
   .container {
