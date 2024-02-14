@@ -1,9 +1,11 @@
-# zoo-starter-code
+# Assignment-1
 
-This repository is the starter code for Assignment 1 - Zoo.
+This repository is the code for Assignment 1 - Zoo.
+
+Independent project by Hayim Heron
 
 ### Live Link
-[Website link](https://johnnylaicode.github.io/zoo-starter-code/)
+[Website link](https://hayimheron.github.io/assignment-1/)
 
 ----------
 ### 1. Use the following process to ***import*** the Assignment 1 starter code repository to your GitHub account as your starter codebase
