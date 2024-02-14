@@ -6,7 +6,7 @@ Individual project by @hayimheron
 
 
 ### Live Link
-[Website link](https://hayimheron.github.io/assignment-1/Home.html](https://hayimheron.github.io/assignment-1/Home.html)
+[Website link](https://hayimheron.github.io/assignment-1/Home.html)
 >>>>>>> 76b48bf34d118f25ff1b6c04226ae20530903b35
 
 ----------
