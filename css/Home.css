@@ -1,33 +1,9 @@
 body {
     font-family: Papyrus, sans-serif;
-    background-color: rgb(74, 207, 216);
-    font-size: 150%;
     text-align: center;
+    margin: 0;
+    padding: 0;
   }
-  
-  img {
-    width: 700px;
-    height: 500px;
-    object-fit: contain;
-    float : center;
-  }
-  
-  .container {
-    display: grid;
-    align-items: center; 
-    grid-template-columns: 1fr 1fr;
-    column-gap: 5px;
-  }
-
-  .text {
-    padding-right: 20px;
-  }
-  
-  .home {
-    padding-top: 20px;
-  }
-
-
   
   .link-box {
     margin: auto;
@@ -91,6 +67,7 @@ body {
     background-color: #2980b9;
     border-color: #2980b9;
   }
+  
   
   
   
