@@ -1,6 +1,6 @@
 body {
-    font-family: Papyrus, sans-serif;
-    background-color: rgb(74, 207, 216);
+  font-family: Papyrus, sans-serif;
+    background-color: rgb(151, 152, 159);
     font-size: 150%;
     text-align: center;
   }
@@ -18,13 +18,14 @@ body {
     grid-template-columns: 1fr 1fr;
     column-gap: 5px;
   }
-
+  
+  
   .text {
     padding-right: 20px;
   }
   
   .home {
-    padding-top: 20px;
+    padding-top: 50px;
   }
 
 
@@ -91,6 +92,7 @@ body {
     background-color: #2980b9;
     border-color: #2980b9;
   }
+  
   
   
   
