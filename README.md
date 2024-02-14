@@ -1,6 +1,9 @@
 # Assignment-1
 
 This repository is the code for Assignment 1 - Zoo.
+Individual project by @hayimheron
+
+
 ### Live Link
 [Website link](https://hayimheron.github.io/assignment-1/Home.html)
 >>>>>>> 76b48bf34d118f25ff1b6c04226ae20530903b35
