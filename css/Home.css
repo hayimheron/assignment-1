@@ -4,7 +4,7 @@ body {
     text-align: center; /* Center-align text */
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
-}
+} 
 /* Styling for each link box */
 .link-box {
     margin: auto; /* Center the box horizontally */
