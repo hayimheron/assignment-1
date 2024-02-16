@@ -2,7 +2,7 @@
 
 This repository is the code for Assignment 1 - Zoo.
 
-Individual project by @hayimheron
+Individual project by Hayim Heron @hayimheron
 
 
 ### Live Link
