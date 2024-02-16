@@ -1,39 +1,40 @@
+/* Set the default font family, text alignment, margin, and padding for the body */
 body {
     font-family: Papyrus, sans-serif;
     text-align: center;
     margin: 0;
     padding: 0;
-  }
-  
-  .link-box {
+}
+/* Style for the link boxes */
+.link-box {
     margin: auto;
     width: 15%;
     padding: 1em 0;
     border: 1px solid #333;
     box-sizing: border-box;
     background: #f0f0f0;
-  }
-  
-  .link-box > a {
+}
+/* Style for links inside the link boxes */
+.link-box > a {
     text-decoration: none;
     color: #333;
-  }
-  
-  #homepage-body {
+}
+/* Style for the container of the homepage body */
+#homepage-body {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-  }
-  
-  .box img {
+}
+/* Style for images inside the box */
+.box img {
     display: block;
     margin: 0 auto 10px;
     max-width: 100%;
     height: auto;
     border-radius: 50%;
-  }
-  
-  .box {
+}
+/* Style for the box containing each item */
+.box {
     flex: 0 0 30%;
     margin: 1em 0;
     background-color: #fff;
@@ -41,18 +42,18 @@ body {
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     transition: box-shadow 0.3s ease;
-  }
-  
-  .box:hover {
+}
+/* Hover effect for the box */
+.box:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
-  
-  .box > a {
+}
+/* Style for links inside the box */
+.box > a {
     color: #333;
     text-decoration: none;
-  }
-  
-  .home-link {
+}
+/* Style for the home link */
+.home-link {
     background-color: #3498db;
     color: #fff;
     padding: 0.5em 1em;
@@ -61,13 +62,13 @@ body {
     text-transform: uppercase;
     font-weight: bold;
     transition: background-color 0.3s ease, color 0.3s ease;
-  }
-  
-  .home-link:hover {
+}
+/* Hover effect for the home link */
+.home-link:hover {
     background-color: #2980b9;
     border-color: #2980b9;
-  }
-  
+}
+
   
   
   
