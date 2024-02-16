@@ -1,74 +1,74 @@
+/* General styling for the body */
 body {
-    font-family: Papyrus, sans-serif;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-  }
-  
-  .link-box {
-    margin: auto;
-    width: 15%;
-    padding: 1em 0;
-    border: 1px solid #333;
-    box-sizing: border-box;
-    background: #f0f0f0;
-  }
-  
-  .link-box > a {
-    text-decoration: none;
-    color: #333;
-  }
-  
-  #homepage-body {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-  }
-  
-  .box img {
-    display: block;
-    margin: 0 auto 10px;
-    max-width: 100%;
-    height: auto;
-    border-radius: 50%;
-  }
-  
-  .box {
-    flex: 0 0 30%;
-    margin: 1em 0;
-    background-color: #fff;
-    padding: 1.5em;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    transition: box-shadow 0.3s ease;
-  }
-  
-  .box:hover {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
-  
-  .box > a {
-    color: #333;
-    text-decoration: none;
-  }
-  
-  .home-link {
-    background-color: #3498db;
-    color: #fff;
-    padding: 0.5em 1em;
-    border-radius: 20px;
-    border: 2px solid #3498db;
-    text-transform: uppercase;
-    font-weight: bold;
-    transition: background-color 0.3s ease, color 0.3s ease;
-  }
-  
-  .home-link:hover {
-    background-color: #2980b9;
-    border-color: #2980b9;
-  }
-  
-  
+    font-family: Papyrus, sans-serif; /* Font family for the body */
+    text-align: center; /* Center-align text */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+} 
+/* Styling for each link box */
+.link-box {
+    margin: auto; /* Center the box horizontally */
+    width: 15%; /* Set the width of the box */
+    padding: 1em 0; /* Add padding to the box */
+    border: 1px solid #333; /* Add a border around the box */
+    box-sizing: border-box; /* Include border in the box sizing */
+    background: #f0f0f0; /* Background color for the box */
+}
+/* Styling for links inside link boxes */
+.link-box > a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Set text color for links */
+}
+/* Styling for the homepage body */
+#homepage-body {
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-around; /* Space items evenly horizontally */
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+}
+/* Styling for images inside boxes */
+.box img {
+    display: block; /* Display image as a block element */
+    margin: 0 auto 10px; /* Center image horizontally and add space below */
+    max-width: 100%; /* Set maximum width for the image */
+    height: auto; /* Set height to auto to maintain aspect ratio */
+    border-radius: 50%; /* Round the corners of the image */
+}
+/* Styling for each box */
+.box {
+    flex: 0 0 30%; /* Set initial, flexible, and maximum size of the box */
+    margin: 1em 0; /* Add margin around the box */
+    background-color: #fff; /* Background color for the box */
+    padding: 1.5em; /* Add padding inside the box */
+    border-radius: 8px; /* Round the corners of the box */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a shadow to the box */
+    transition: box-shadow 0.3s ease; /* Add a smooth transition for the box shadow */
+}
+/* Hover effect for boxes */
+.box:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Change box shadow on hover */
+}
+/* Styling for links inside boxes */
+.box > a {
+    color: #333; /* Set text color for links */
+    text-decoration: none; /* Remove underline from links */
+}
+/* Styling for the home link */
+.home-link {
+    background-color: #3498db; /* Background color for the home link */
+    color: #fff; /* Text color for the home link */
+    padding: 0.5em 1em; /* Add padding to the home link */
+    border-radius: 20px; /* Round the corners of the home link */
+    border: 2px solid #3498db; /* Add a border to the home link */
+    text-transform: uppercase; /* Transform text to uppercase */
+    font-weight: bold; /* Set font weight to bold */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Add a smooth transition for background color and text color */
+}
+/* Hover effect for home link */
+.home-link:hover {
+    background-color: #2980b9; /* Change background color on hover */
+    border-color: #2980b9; /* Change border color on hover */
+}
+
   
   
   
